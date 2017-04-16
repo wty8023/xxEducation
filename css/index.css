@@ -1,0 +1,13 @@
+#header{
+    background: url("../img/logo.jpg") no-repeat center;
+    height: 55px;
+    width: 354px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 10px;
+}
+#main-header li{
+    font-weight: bolder;
+    float: left;
+    margin-right: 10px;
+}
